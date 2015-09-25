@@ -1,0 +1,9 @@
+{
+  "firebase": "getajobapp",
+  "public": "C:\\Users\\Admin\\GetAJob\\www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
